@@ -96,7 +96,7 @@ class Player {
         }
 
         //Player makes it Safely, inrease score by 1 and reset position; WIN
-        if (this.y === 55) {
+        if (this.y === -28) {
             score++;
             document.getElementById('score').innerHTML = score;
             this.reset();
