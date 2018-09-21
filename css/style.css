@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+.notice {
+    font-family: 'Amatic+SC', sans-serif;
+    color: FireBrick;
+    background-color: Gainsboro;
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 19px;
+    padding: 5px;
+    box-shadow: 6px 6px 17px 4px rgba(160, 163, 153, 1);
+}
