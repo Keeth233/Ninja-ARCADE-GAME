@@ -3,7 +3,8 @@
 
 ## How To Play
 As a Ninja, Patience is of Great Value to avoid excessive violence with ninjutsu.
-Using the keyboard, make it safely to the water without harming the sacred bugs.
+Using the keyboard, make it safely to the water without harming the sacred bugs or they'll take you back to start again.
+* A safe run increases your score
 
 ## NOTE
 I made changes to the given files since they were too boring for me and created my own story concept with a more interesting character.
@@ -16,3 +17,13 @@ I made changes to the given files since they were too boring for me and created 
 ## To Play The Ninja ARCADE GAME
 
 To play the Classic Ninja Arcade Game, click [here]( https://keeth233.github.io/Ninja-ARCADE-GAME/)
+
+## To Play locally on your computer
+* Clone/Download the zip file to your drive
+* Extract the files 
+* Double click on the ```index``` file to open in your browser
+* As instructed in ```How To Play``` above, Use your keyboard to make it safely to the water
+
+Enjoy your ninja mode
+:grin:
+
