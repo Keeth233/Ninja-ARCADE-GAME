@@ -55,13 +55,8 @@ let Engine = (function(global) {
 
         /* Use the browser's requestAnimationFrame function to call this
          * function again as soon as the browser is able to draw another frame.
-         */
-        if (player.victory === true) {
-            win.cancelAnimationFrame(id);
-            this.y = 55;
-        } else {
-            id = win.requestAnimationFrame(main);
-        }
+         */       
+         win.requestAnimationFrame(main);
     }
 
     /* This function does some initial setup that should only occur once,
