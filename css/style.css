@@ -3,6 +3,10 @@ body {
     background-color: beige;
 }
 
+h1 {
+    text-shadow: 2px 2px rgb(110, 32, 32);
+}
+
 .notice {
     font-family: 'Amatic+SC', sans-serif;
     color: FireBrick;
