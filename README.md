@@ -12,7 +12,7 @@ I made changes to the given files since they were too boring for me and created 
 ### External Content
 * The ninja emoji(face only) was taken from this link "https://i.pinimg.com/736x/34/2f/05/342f05ee44fb534d25daad152377829d--smiley-emoji-emoji-faces.jpg" 
 
-* As creative artist, i further worked on the provided assets for a more rich content
+* As a creative artist, i further worked on the provided assets for a more rich content
 
 ## To Play The Ninja ARCADE GAME
 
@@ -22,8 +22,8 @@ To play the Classic Ninja Arcade Game, click [here]( https://keeth233.github.io/
 * Clone/Download the zip file to your drive
 * Extract the files 
 * Double click on the ```index``` file to open in your browser
-* As instructed in ```How To Play``` above, Use your keyboard to make it safely to the water
+* As instructed in ```How To Play``` above, Use your keyboard to make it safely to the water.
 
-Enjoy your ninja mode
+Enjoy your ninja mode.
 :grin:
 
